@@ -1,7 +1,6 @@
-### EX NO : 02
+ 
+# EX-2 Palindrome
 ### DATE  : 
-# <p align="center">Palindrome</p>
-
 
 
 ## Aim:
