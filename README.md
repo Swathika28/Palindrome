@@ -1,6 +1,6 @@
  
 # EX-2 Palindrome
-### DATE  : 
+## DATE  : 
 
 
 ## Aim:
